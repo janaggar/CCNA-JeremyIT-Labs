@@ -1,0 +1,21 @@
+1]
+A. PC1 / SW1 F0/1
+B. SW1 G0/1 / R1 G0/0
+C. R1 G0/1 / R2 G0/0
+D. R2 G0/1 / R3 G0/0
+E. R3 G0/1 / SW2 G0/1
+F. SW2 F0/1 / PC4
+
+
+2]
+A. PC1 / SW1 F0/1
+B. SW1 F0/3 / PC3
+
+
+3] 
+A. PC4 -> SW2 PC4 / SW2 F0/1
+B. SW2 -> R3  G0/1 / R3 G0/1
+C. R3 -> R2   R3 G0/0 / R2 G0/1
+D. R2 -> R1   R2 G0/0 / R1 G0/1
+E. R1 -> SW1  R1 G0/0 / SW1 G0/1
+F. SW1 -> PC1 SW1 F0/1 / PC1
